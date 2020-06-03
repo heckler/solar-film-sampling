@@ -30,10 +30,10 @@ Test four samples of solar film for architectural use obtained in 2020, and also
 
 ## Results' charts
 
-<a href="resources/test_1.png" target="_blank"><img src="resources/test_1.png" alt="test_1" width="400"/>
-<a href="resources/test_2.png" target="_blank"><img src="resources/test_2.png" alt="test_1" width="400"/>
-<a href="resources/test_3.png" target="_blank"><img src="resources/test_3.png" alt="test_1" width="400"/>
-<a href="resources/test_4.png" target="_blank"><img src="resources/test_4.png" alt="test_1" width="400"/>
+<a href="https://raw.githubusercontent.com/heckler/solar-film-sampling/master/resources/test_1.png" target="_blank"><img src="resources/test_1.png" alt="test_1" width="400"/>
+<a href="https://raw.githubusercontent.com/heckler/solar-film-sampling/master/resources/test_2.png" target="_blank"><img src="resources/test_2.png" alt="test_1" width="400"/>
+<a href="https://raw.githubusercontent.com/heckler/solar-film-sampling/master/resources/test_3.png" target="_blank"><img src="resources/test_3.png" alt="test_1" width="400"/>
+<a href="https://raw.githubusercontent.com/heckler/solar-film-sampling/master/resources/test_4.png" target="_blank"><img src="resources/test_4.png" alt="test_1" width="400"/>
 
 ## Experimental setup images
 
