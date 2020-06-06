@@ -30,14 +30,35 @@ Test four samples of solar film for architectural use obtained in 2020, and also
 
 ## Results' charts
 
-<a href="https://raw.githubusercontent.com/heckler/solar-film-sampling/master/resources/test_1.png" target="_blank"><img src="resources/test_1.png" alt="test_1" width="400"/>
-<a href="https://raw.githubusercontent.com/heckler/solar-film-sampling/master/resources/test_2.png" target="_blank"><img src="resources/test_2.png" alt="test_1" width="400"/>
-<a href="https://raw.githubusercontent.com/heckler/solar-film-sampling/master/resources/test_3.png" target="_blank"><img src="resources/test_3.png" alt="test_1" width="400"/>
-<a href="https://raw.githubusercontent.com/heckler/solar-film-sampling/master/resources/test_4.png" target="_blank"><img src="resources/test_4.png" alt="test_1" width="400"/>
+<a href="https://raw.githubusercontent.com/heckler/solar-film-sampling/master/resources/test_1.png" target="_blank"><img src="resources/test_1.png" alt="test_1" width="400"/></a>
+<a href="https://raw.githubusercontent.com/heckler/solar-film-sampling/master/resources/test_2.png" target="_blank"><img src="resources/test_2.png" alt="test_1" width="400"/></a>
+<a href="https://raw.githubusercontent.com/heckler/solar-film-sampling/master/resources/test_3.png" target="_blank"><img src="resources/test_3.png" alt="test_1" width="400"/></a>
+<a href="https://raw.githubusercontent.com/heckler/solar-film-sampling/master/resources/test_4.png" target="_blank"><img src="resources/test_4.png" alt="test_1" width="400"/></a>
 
 ## Experimental setup images
 
-<a href="https://raw.githubusercontent.com/heckler/solar-film-sampling/master/photos/Setup_01.jpg" target="_blank"><img src="photos/Setup_01.jpg" alt="01" width="400"/>
-<a href="https://raw.githubusercontent.com/heckler/solar-film-sampling/master/photos/Setup_02.jpg" target="_blank"><img src="photos/Setup_02.jpg" alt="01" width="400"/>
-<a href="https://raw.githubusercontent.com/heckler/solar-film-sampling/master/photos/Setup_03.jpg" target="_blank"><img src="photos/Setup_03.jpg" alt="01" width="400"/>
-<a href="https://raw.githubusercontent.com/heckler/solar-film-sampling/master/photos/Setup_04.jpg" target="_blank"><img src="photos/Setup_04.jpg" alt="01" width="400"/>
+<a href="https://raw.githubusercontent.com/heckler/solar-film-sampling/master/photos/Setup_01.jpg" target="_blank"><img src="photos/Setup_01.jpg" alt="01" width="400"/></a>
+<a href="https://raw.githubusercontent.com/heckler/solar-film-sampling/master/photos/Setup_02.jpg" target="_blank"><img src="photos/Setup_02.jpg" alt="01" width="400"/></a>
+<a href="https://raw.githubusercontent.com/heckler/solar-film-sampling/master/photos/Setup_03.jpg" target="_blank"><img src="photos/Setup_03.jpg" alt="01" width="400"/></a>
+<a href="https://raw.githubusercontent.com/heckler/solar-film-sampling/master/photos/Setup_04.jpg" target="_blank"><img src="photos/Setup_04.jpg" alt="01" width="400"/></a>
+
+## Specifications
+
+|                                  | CIR60 | DS40 | DS70 | SDS50 |
+| -------------------------------- | ----: | ---: | ---: | ----: |
+| Transmitted visible light        |   63% |  38% |  72% |   50% |
+| Reflected interior visible light |    7% |  14% |  13% |   28% |
+| Reflected exterior visible light |    7% |  17% |  14% |   26% |
+| UV rejection                     |   99% |  99% |  99% |   99% |
+| Thermal performance SHGC         |  0.53 | 0.44 | 0.53 |  0.46 |
+| Total rejected solar energy      |   47% |  56% |  47% |   54% |
+
+- [Specifications](https://www.suntekfilms.com/sites/suntekfilms-prd/files/docs/SunTek%20Arch%20Solar%20Specs.pdf)
+- [Film installation guidelines](https://www.suntekfilms.com/sites/suntekfilms-prd/files/docs/SunTek%20Arch%20Solar%20Specs.pdf)
+- [CIR-60](https://suntek.ind.br/ceramic-ir-2/)
+- [SDS-50](https://suntek.ind.br/silver/)
+
+<a href="https://raw.githubusercontent.com/heckler/solar-film-sampling/master/specs/Spec_CIR60.jpg" target="_blank"><img src="specs/Spec_CIR60.jpg" alt="01" width="400"/>
+<a href="https://raw.githubusercontent.com/heckler/solar-film-sampling/master/specs/Spec_DS40.jpg" target="_blank"><img src="specs/Spec_DS40.jpg" alt="01" width="400"/>
+<a href="https://raw.githubusercontent.com/heckler/solar-film-sampling/master/specs/Spec_DS70.jpg" target="_blank"><img src="specs/Spec_DS70.jpg" alt="01" width="400"/>
+<a href="https://raw.githubusercontent.com/heckler/solar-film-sampling/master/specs/Spec_SDS50.jpg" target="_blank"><img src="specs/Spec_SDS50.jpg" alt="01" width="400"/>
