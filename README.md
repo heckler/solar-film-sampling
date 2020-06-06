@@ -67,7 +67,7 @@ Test four samples of solar film for architectural use obtained in 2020, and also
 
 Top row: TBA; bottom row: TBA.
 
-<a href="https://raw.githubusercontent.com/heckler/solar-film-sampling/master/photos/visual_01.jpg" target="_blank"><img src="photos/visual_01.jpg" alt="test_1" width="400"/></a>
-<a href="https://raw.githubusercontent.com/heckler/solar-film-sampling/master/photos/visual_02.jpg" target="_blank"><img src="photos/visual_02.jpg" alt="test_1" width="400"/></a>
-<a href="https://raw.githubusercontent.com/heckler/solar-film-sampling/master/photos/visual_03.jpg" target="_blank"><img src="photos/visual_03.jpg" alt="test_1" width="400"/></a>
-<a href="https://raw.githubusercontent.com/heckler/solar-film-sampling/master/photos/visual_04.jpg" target="_blank"><img src="photos/visual_04.jpg" alt="test_1" width="400"/></a>
+<a href="https://raw.githubusercontent.com/heckler/solar-film-sampling/master/photos/Visual_01.jpg" target="_blank"><img src="photos/Visual_01.jpg" alt="Visual impression" width="400"/></a>
+<a href="https://raw.githubusercontent.com/heckler/solar-film-sampling/master/photos/Visual_02.jpg" target="_blank"><img src="photos/Visual_02.jpg" alt="Visual impression" width="400"/></a>
+<a href="https://raw.githubusercontent.com/heckler/solar-film-sampling/master/photos/Visual_03.jpg" target="_blank"><img src="photos/Visual_03.jpg" alt="Visual impression" width="400"/></a>
+<a href="https://raw.githubusercontent.com/heckler/solar-film-sampling/master/photos/Visual_04.jpg" target="_blank"><img src="photos/Visual_04.jpg" alt="Visual impression" width="400"/></a>
