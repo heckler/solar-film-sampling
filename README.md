@@ -37,7 +37,7 @@ Test four samples of solar film for architectural use obtained in 2020, and also
 
 ## Experimental setup images
 
-<a href="https://raw.githubusercontent.com/heckler/solar-film-sampling/master/photos/01.jpg" target="_blank"><img src="photos/01.jpg" alt="01" width="400"/>
-<a href="https://raw.githubusercontent.com/heckler/solar-film-sampling/master/photos/02.jpg" target="_blank"><img src="photos/02.jpg" alt="01" width="400"/>
-<a href="https://raw.githubusercontent.com/heckler/solar-film-sampling/master/photos/03.jpg" target="_blank"><img src="photos/03.jpg" alt="01" width="400"/>
-<a href="https://raw.githubusercontent.com/heckler/solar-film-sampling/master/photos/04.jpg" target="_blank"><img src="photos/04.jpg" alt="01" width="400"/>
+<a href="https://raw.githubusercontent.com/heckler/solar-film-sampling/master/photos/Setup_01.jpg" target="_blank"><img src="photos/Setup_01.jpg" alt="01" width="400"/>
+<a href="https://raw.githubusercontent.com/heckler/solar-film-sampling/master/photos/Setup_02.jpg" target="_blank"><img src="photos/Setup_02.jpg" alt="01" width="400"/>
+<a href="https://raw.githubusercontent.com/heckler/solar-film-sampling/master/photos/Setup_03.jpg" target="_blank"><img src="photos/Setup_03.jpg" alt="01" width="400"/>
+<a href="https://raw.githubusercontent.com/heckler/solar-film-sampling/master/photos/Setup_04.jpg" target="_blank"><img src="photos/Setup_04.jpg" alt="01" width="400"/>
