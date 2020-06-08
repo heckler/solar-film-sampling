@@ -65,7 +65,8 @@ Test four samples of solar film for architectural use obtained in 2020, and also
 
 ## Visual impression under different light conditions
 
-Top row: TBA; bottom row: TBA.
+- Top row: SDS50, DS40, DS70, CIR60
+- Bottom row: HS-80, HS-70, MUSEU
 
 <a href="https://raw.githubusercontent.com/heckler/solar-film-sampling/master/photos/Visual_01.jpg" target="_blank"><img src="photos/Visual_01.jpg" alt="Visual impression" width="400"/></a>
 <a href="https://raw.githubusercontent.com/heckler/solar-film-sampling/master/photos/Visual_02.jpg" target="_blank"><img src="photos/Visual_02.jpg" alt="Visual impression" width="400"/></a>
